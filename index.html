@@ -4,22 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src='./radio-group.js' defer></script>
+  <script src='./radio-button.js' defer></script>
   <title>A11y Video 03</title>
 </head>
 <body>
-  <label for='address'>
-    <input type="text">
-    Address
-  </label>
-  <label for="tel">
-    <input type="tel">
-    Phone
-  </label>
-
-  <select name="phone" id="phone">
-    <option value="work">Work</option>
-    <option value="cell">Cell</option>
-    <option value="home">Home</option>
-  </select>
+  <radio-group>
+    <radio-button>Water</radio-button>
+    <radio-button>Coffee</radio-button>
+    <radio-button>Tea</radio-button>
+    <radio-button>Cola</radio-button>
+    <radio-button>Ginger Ale</radio-button>
+  </radio-group>
+  <div>
+    <button>Hello World</button>
+  </div>
 </body>
 </html>
