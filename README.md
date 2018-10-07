@@ -9,7 +9,7 @@
   - [Video 04: tabindex](#video-04-tabindex)
   - [Video 05: Just use a button](#video-05-just-use-a-button)
   - [Video 06: roving tabindex](#video-06-roving-tabindex)
-  - [Video 07: VoiceOver (Mac) Walkthrough](#video-07-voiceover-mac-walkthrough)
+  - [Video 07: Vo iceOver (Mac) Walkthrough](#video-07-vo-iceover-mac-walkthrough)
   - [Video 08: Why do semantics matter?](#video-08-why-do-semantics-matter)
 
 <!-- /TOC -->
@@ -51,7 +51,7 @@
 
 - WheelOfFortune radio dial
 
-## Video 07: VoiceOver (Mac) Walkthrough
+## Video 07: Vo iceOver (Mac) Walkthrough
 
 ## Video 08: Why do semantics matter?
 
